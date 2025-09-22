@@ -1,1 +1,3 @@
-text from dev branch
+
+text from master branch
+>>>>>>> 0fdd043 (Change file on a main branch)
